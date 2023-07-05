@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpAddressValidator", "IpAddressValidator\IpAddressValidator.csproj", "{FCB8EFC9-B998-4862-88F5-80B6DC5C3E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpValidatorTest", "IpValidatorTest\IpValidatorTest.csproj", "{5787D2E5-6294-431B-B02E-5018CFC59F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB8EFC9-B998-4862-88F5-80B6DC5C3E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB8EFC9-B998-4862-88F5-80B6DC5C3E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB8EFC9-B998-4862-88F5-80B6DC5C3E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB8EFC9-B998-4862-88F5-80B6DC5C3E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5787D2E5-6294-431B-B02E-5018CFC59F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5787D2E5-6294-431B-B02E-5018CFC59F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5787D2E5-6294-431B-B02E-5018CFC59F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5787D2E5-6294-431B-B02E-5018CFC59F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB3E986-A28E-4CEA-8D56-42F5FA6CD84B}
+	EndGlobalSection
+EndGlobal
